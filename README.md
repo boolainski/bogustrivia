@@ -1,2 +1,2 @@
-# egghelp
-Basic TCL Scripts
+# bogustrivia
+Trivia Files thanks to Spike^^
